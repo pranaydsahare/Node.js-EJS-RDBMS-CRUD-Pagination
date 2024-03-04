@@ -10,14 +10,13 @@ To deploy this project run
 
 **1] install this dependencies**
 
-a) express :Express is a minimal and flexible web application framework for Node.js. It provides a robust set of features to develop web and mobile applications. With Express, developers can easily create server-side applications, APIs, and web services using JavaScript.
+a) express 
 
 b) mysql2 :
-mysql2 is a Node.js driver for MySQL databases. It provides an interface for interacting with MySQL databases from Node.js applications. mysql2 is a fast, efficient, and feature-rich alternative to the original mysql package
 
-c) body-parser : body-parser is a middleware for Express.js, a web application framework for Node.js. It is responsible for parsing incoming request bodies in various formats such as JSON, URL-encoded, and multipart/form-data
+c) body-parser 
 
-d) dotenv : dotenv is a Node.js module that allows you to load environment variables from a .env file into your Node.js application's process.env object. This module is particularly useful for managing configuration variables and sensitive information (like API keys, database URLs, etc.) in your Node.js applications.
+d) dotenv 
 
 **2] Set up your database:**
 
