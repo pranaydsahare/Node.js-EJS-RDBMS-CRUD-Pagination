@@ -74,8 +74,7 @@ The product list page displays products with pagination. You can navigate throug
 
 
 
-## 🛠 Skills
-Javascript,Node.ja,Express.js,MySQL
+
 # 🛠 Skills
 
 - **JavaScript**: 
