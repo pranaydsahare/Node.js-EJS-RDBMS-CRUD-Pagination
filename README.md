@@ -29,14 +29,14 @@ Create a database in your RDBMS (e.g., MySQL).
 - **Description**: This table stores information about different categories of products.
 - **Columns**:
   - `CategoryId`: An integer representing the unique identifier for each category. It serves as the primary key for this table.
-  - `CategoryName`: A string (varchar) representing the name of the category. It has a maximum length of 10 characters.
+  - `CategoryName`: A string (varchar) representing the name of the category. It has a maximum length of 50 characters.
 
 ## Product Table
 - **Table Name**: Product
 - **Description**: This table contains details of various products along with their respective categories.
 - **Columns**:
   - `ProductId`: An integer representing the unique identifier for each product. It serves as the primary key for this table.
-  - `ProductName`: A string (varchar) representing the name of the product. It has a maximum length of 10 characters.
+  - `ProductName`: A string (varchar) representing the name of the product. It has a maximum length of 50 characters.
   - `fk_CategoryId`: An integer representing the foreign key that references the `CategoryId` in the Category table. This establishes a relationship between products and their respective categories.
   - **Foreign Key Constraint**: `fk_CategoryId` references the `CategoryId` column in the Category table, ensuring referential integrity. Additionally, it is configured with cascading actions:
     - `ON UPDATE CASCADE`: If the referenced CategoryId is updated, the corresponding fk_CategoryId in the Product table will also be updated.
