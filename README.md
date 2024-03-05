@@ -81,26 +81,30 @@ Javascript,Node.ja,Express.js,MySQL
 ## Tech Stack
 
 
+# Project Description
 
 ## Client-Side
 - **EJS (Embedded JavaScript)**: Utilized for server-side templating, allowing dynamic content generation based on data received from the server.
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/EJS_Logo.png" alt="EJS" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/EJS_Logo.png" alt="EJS" width="20"/> 
 - **Bootstrap**: Employed for minimal styling to enhance the visual appeal and user experience of the application.
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" width="20"/>
 
 ## Server-Side
 - **Node.js**: Used as the server-side JavaScript runtime environment to execute server-side logic.
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="Node.js" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="Node.js" width="20"/> 
 - **Express**: Employed as the web application framework for Node.js, facilitating the handling of HTTP requests, routing, and middleware integration.
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express" width="20"/>
 
 ## Language
 - **JavaScript**: The primary programming language utilized for both client-side and server-side development, ensuring consistency and ease of development across the entire application.
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="20"/>
 
 ## Database
 - **MySQL (or any other RDBMS)**: Selected as the relational database management system to store and manage application data in a structured format, providing robustness, scalability, and data integrity.
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" alt="MySQL" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" alt="MySQL" width="20"/>
+
+
+
 ## Authors
 
 - [@pranaydsahare](https://github.com/pranaydsahare)
