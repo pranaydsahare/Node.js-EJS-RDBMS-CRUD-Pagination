@@ -76,6 +76,20 @@ The product list page displays products with pagination. You can navigate throug
 
 ## 🛠 Skills
 Javascript,Node.ja,Express.js,MySQL
+# 🛠 Skills
+
+- **JavaScript**: 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="20"/>
+
+- **Node.js**: 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="Node.js" width="20"/>
+
+- **Express.js**: 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="20"/>
+
+- **MySQL**: 
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" alt="MySQL" width="20"/>
+
 
 
 ## Tech Stack
