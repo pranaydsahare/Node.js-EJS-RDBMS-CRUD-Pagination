@@ -80,15 +80,21 @@ Javascript,Node.ja,Express.js,MySQL
 
 ## Tech Stack
 
-**Client:** EJS (Embedded JavaScript),Bootstrap (for minimal styling)
+# Project Description
 
+## Client-Side
+- **EJS (Embedded JavaScript)**: Utilized for server-side templating, allowing dynamic content generation based on data received from the server.
+- **Bootstrap**: Employed for minimal styling to enhance the visual appeal and user experience of the application.
 
+## Server-Side
+- **Node.js**: Used as the server-side JavaScript runtime environment to execute server-side logic.
+- **Express**: Employed as the web application framework for Node.js, facilitating the handling of HTTP requests, routing, and middleware integration.
 
-**Server:** Node, Express
+## Language
+- **JavaScript**: The primary programming language utilized for both client-side and server-side development, ensuring consistency and ease of development across the entire application.
 
-**language:**  Javascript
-
-**Database:** MySQL (or any other RDBMS)
+## Database
+- **MySQL (or any other RDBMS)**: Selected as the relational database management system to store and manage application data in a structured format, providing robustness, scalability, and data integrity.
 
 
 
