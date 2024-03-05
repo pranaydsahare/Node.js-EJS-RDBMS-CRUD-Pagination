@@ -81,11 +81,9 @@ Javascript,Node.ja,Express.js,MySQL
 ## Tech Stack
 
 
-# Project Description
 
 ## Client-Side
 - **EJS (Embedded JavaScript)**: Utilized for server-side templating, allowing dynamic content generation based on data received from the server.
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/EJS_Logo.png" alt="EJS" width="20"/> 
 - **Bootstrap**: Employed for minimal styling to enhance the visual appeal and user experience of the application.
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" width="20"/>
 
@@ -101,7 +99,6 @@ Javascript,Node.ja,Express.js,MySQL
 
 ## Database
 - **MySQL (or any other RDBMS)**: Selected as the relational database management system to store and manage application data in a structured format, providing robustness, scalability, and data integrity.
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" alt="MySQL" width="20"/>
 
 
 
