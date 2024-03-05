@@ -24,11 +24,17 @@ Create a database in your RDBMS (e.g., MySQL).
 Update the database configurations in the `config/db.config.js` file.
 
 PORT=5000
+
 HOST=localhost
+
 USER=root
+
 PASSWORD=*******
+
 DB_PORT=3306
+
 DATABASE=services
+
 
 
 ### 4. Run the Application:
@@ -72,7 +78,7 @@ Navigate to the Category and Product pages to perform CRUD operations. The produ
 ## Tech Stack
 
 ### Client-Side
-- **EJS (Embedded JavaScript)**: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" width="20"/>
+- **EJS (Embedded JavaScript),Bootstrap**: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" width="20"/>
 
 ### Server-Side
 - **Node.js**: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="Node.js" width="20"/>
@@ -82,7 +88,7 @@ Navigate to the Category and Product pages to perform CRUD operations. The produ
 - **JavaScript**: <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="20"/>
 
 ### Database
-- **MySQL (or any other RDBMS)**: <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" alt="MySQL" width="20"/>
+- **MySQL (or any other RDBMS)**: 
 
 ## Authors
 
